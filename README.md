@@ -5,3 +5,5 @@ Alumno de [Cuatrovientos](inigoelverdin.github.io)
 
 Estoy muy fuerte y pego unas patadas que dan yuyu
 
+Ultima competición mallorca
+
