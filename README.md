@@ -3,8 +3,5 @@
 
 Alumno de [Cuatrovientos](inigoelverdin.github.io)
 
-## Asignaturas
-Me dan clases de:
-- Implantación de Sistemas Operativos
-- Implatación de Aplicaciones web
-- Entornos de Desarrollo
+Estoy muy fuerte y pego unas patadas que dan yuyu
+
